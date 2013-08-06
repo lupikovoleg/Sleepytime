@@ -1,0 +1,82 @@
+body, html {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size:1.0em;
+  font-weight:400;
+  margin-top:4%;
+  color: #111;
+  background-color:#fff;
+}
+.font {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+}
+.btn-now {
+  background: transparent;
+  border: none;
+  font-size:1em;
+  font-weight:300;
+  color: #0b70cd;
+  border-bottom: 1px solid;
+}
+.btn-now:hover {
+  border: none;
+}
+.no-margin-right {
+  margin-right: -20px;
+}
+.row .width {
+  width: 580px;
+}
+.p-medium {
+  font-size:1em
+}
+h1 {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size:3em;
+  font-weight:300;
+}
+h2 {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size:1.8em;
+  font-weight:300;
+}
+h3 {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size:1.2em;
+  font-weight:300;
+}
+p {
+  font-family: "Roboto",Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size:1.8em;
+  font-weight:300;
+}
+.margin {
+  margin-top: 20px;
+}
+.no-margin {
+  margin-top: -10px;
+}
+.footer {
+  font-size:1em;
+  font-weight:300;
+  margin-top: 30px;
+}
+a {
+  color: #111;
+}
+a:hover {
+  color: #932794;
+  text-decoration: none;
+  border-bottom:1px solid;
+}
+a.blue {
+  color: #0b70cd;
+}
+a.green {
+  color: #7b9d06;
+}
+dt {
+  font-weight: 500;
+}
+dl {
+  margin-bottom: -10px;
+}
